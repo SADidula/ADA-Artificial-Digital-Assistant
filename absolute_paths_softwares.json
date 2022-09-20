@@ -1,0 +1,12 @@
+{
+  "softwares" : [
+    {
+      "sft_name" : "steam",
+      "path": "D:\\Steam\\steam.exe"
+    },
+    {
+      "sft_name" : "chrome",
+      "path": "C:\\Users\\pc\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe"
+    }
+  ]
+}
